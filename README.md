@@ -1,5 +1,7 @@
 # DevOps for Software Engineers Workshop 2020
 
+[![Build Status](https://travis-ci.com/ibm-devops/devops-workshop-2020.svg?branch=master)](https://travis-ci.com/ibm-devops/devops-workshop-2020)
+
 This repository represents the starting point for a 3 hour workshop on **DevOps for Software Engineers**. It is menant to be forked to your own GitHub account so that you can create Issues and Pull Requests and push software updates as you follow along with the hands-on workshop.
 
 ## Overview
